@@ -33,17 +33,24 @@
 </ul>
 <br />
 <h2>🤝 Contact with me 📫</h2>
-<p align="left">
+<p align="left" justify="center">
 	<a
-		href="https://linkedin.com/in/https://www.linkedin.com/in/gustavoespergu%c3%adn/"
+		href="https://www.linkedin.com/in/facundomartinez95/"
 		target="blank"
 		><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-			alt="https://www.linkedin.com/in/gustavoespergu%c3%adn/"
+			alt="https://www.linkedin.com/in/facundomartinez95/"
 			height="30"
 			width="40"
-	/></a>
+	/> <br> in/facundomartinez95</a>
+	<br>
+	<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
+			alt="css3"
+			width="40"
+			height="40"
+		/> <br>facundo.eet2@gmail.com
 </p>
 <br />
 <h2 align="left">Languages and Tools</h2>
