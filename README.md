@@ -176,15 +176,14 @@
 <h2>Git Stats 📈</h2>
 <p>
 	<img
+		height="150em"
 		align="left"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=FacundoMartinez14&show_icons=true&locale=en&layout=compact"
 		alt="FacundoMartinez14"
 	/>
-</p>
-<br>
-<p>
-	&nbsp;<img
-		align="center"
+	<img
+		height="150em"
+		align="right"
 		src="https://github-readme-stats.vercel.app/api?username=FacundoMartinez14&show_icons=true&locale=en"
 		alt="FacundoMartinez14"
 	/>
